@@ -25,4 +25,6 @@ warrior.ToConsole();
 A kód kimenete a következő kell legyen:    
 (2,-1)    
 Peter the Iron Man, position (2,-1)    
-Peter the Iron Man, position (5,-3)    
+Peter the Iron Man, position (5,-3)   
+
+![image](https://github.com/2023-2024-CSARP-OOP-WPF/01-03-02-warriorproject-b0surist/assets/84459000/10f781d1-32c8-4908-b113-085fcaf0967e)
